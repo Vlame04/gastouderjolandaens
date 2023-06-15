@@ -48,7 +48,19 @@
     "uniqCompNum": 31,
     "versionPublish": "5.8.14",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "mbrsite": "mbrsite://%7B%22id%22%3A312217%2C%22domain%22%3A%22gastouderjolandaens.mobirisesite.com%22%7D",
+    "publishChangesOnly": true,
+    "favicon": false,
+    "mbrsiteDomain": "gastouderjolandaens",
+    "usedWebp": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "regels.html": {
